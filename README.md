@@ -1,2 +1,2 @@
-# portfolio-liuting.github.com
+# portfolio-liuting.github.io
 My Simple Portfolio
